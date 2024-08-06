@@ -14,5 +14,5 @@
 
 Ответ:
 
-![1](https://github.com/Evgenii199130/ELK/scrin/kibana.png)
+![1](https://github.com/Evgenii199130/ELK/blob/main/scrin/kibana.png)
 
