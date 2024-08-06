@@ -7,4 +7,12 @@
 Ответ:
 ![1](https://github.com/Evgenii199130/ELK/blob/main/scrin/2024-08-04%2019-52-04.png)
 
+Задание 2. Kibana
+Установите и запустите Kibana.
+
+Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty.
+
+Ответ:
+
+![1](https://github.com/Evgenii199130/ELK/scrin/kibana.png)
 
