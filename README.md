@@ -16,3 +16,11 @@
 
 ![1](https://github.com/Evgenii199130/ELK/blob/main/scrin/kibana.png)
 
+Задание 3. Logstash
+Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch.
+
+Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.
+
+Ответ:
+
+![1](https://github.com/Evgenii199130/ELK/blob/main/scrin/scrin 3.png
