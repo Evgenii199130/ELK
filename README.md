@@ -23,4 +23,4 @@
 
 Ответ:
 
-![1](https://github.com/Evgenii199130/ELK/blob/main/scrin/scrin 3.png)
+![1](https://github.com/Evgenii199130/ELK/blob/main/scrin/scrin%3.png)
